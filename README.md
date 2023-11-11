@@ -1,1 +1,2 @@
-# aulas-eng-soft, aqui vou documenetar alguns exercicios de logica do Meu Bacharelado em Eng de Software
+# aulas-eng-soft, aqui vou documenetar alguns exercicios  do meu Bacharelado em Eng de Software
+
