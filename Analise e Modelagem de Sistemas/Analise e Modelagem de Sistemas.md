@@ -65,4 +65,4 @@ Construímos um diagrama de casos de uso que captura as principais funcionalidad
 
 A modelagem de sistemas é uma etapa crucial no desenvolvimento de software, permitindo uma compreensão clara das funcionalidades e interações do sistema. O diagrama de casos de uso desenvolvido neste exercício é uma ferramenta valiosa para orientar o desenvolvimento futuro do sistema bancário, garantindo que os requisitos do cliente sejam atendidos de maneira eficaz.
 
-Para 
+ 
