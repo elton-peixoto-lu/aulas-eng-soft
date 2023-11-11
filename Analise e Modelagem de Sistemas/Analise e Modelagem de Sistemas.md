@@ -15,7 +15,7 @@ Desenvolva um diagrama de casos de uso para um sistema bancário, levando em con
 
 A seguir, apresentamos o diagrama de casos de uso que representa a interação entre atores e casos de uso no sistema bancário:
 
-![Diagrama de Casos de Uso](link_para_imagem)
+![Diagrama de Casos de Uso](Diagrams.png)
 
 ### Descrição dos Casos de Uso
 
